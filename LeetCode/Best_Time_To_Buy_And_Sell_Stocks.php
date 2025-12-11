@@ -1,4 +1,4 @@
-class 121_Best_Time_To_Buy_And_Sell_Stocks {
+class Best_Time_To_Buy_And_Sell_Stocks {
 
     /**
      * @param Integer[] $prices
