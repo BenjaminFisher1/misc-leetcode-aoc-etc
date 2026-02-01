@@ -5,6 +5,3 @@ def maskify(cc):
     if cut < 0:
         return cc
     return '#' * cut + cc[cut:cut+4]
-
-    
-    
