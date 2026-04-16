@@ -1,7 +1,7 @@
 class Solution {
     public boolean isPalindrome(String s) {
         String ns = s.replaceAll("[^a-zA-Z0-9]", "").toLowerCase();
-        System.out.println(ns);
+      
         char[] ca = ns.toCharArray();
         int i = 0;
         int j = ca.length - 1;
